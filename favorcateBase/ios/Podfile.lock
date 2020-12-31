@@ -1,0 +1,41 @@
+PODS:
+  - Flutter (1.0.0)
+  - fluwx (0.0.1):
+    - Flutter
+    - WechatOpenSDK (= 1.8.7.1)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
+    - Flutter
+  - WechatOpenSDK (1.8.7.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - fluwx (from `.symlinks/plugins/fluwx/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - webview_flutter (from `.symlinks/plugins/webview_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - WechatOpenSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  fluwx:
+    :path: ".symlinks/plugins/fluwx/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  webview_flutter:
+    :path: ".symlinks/plugins/webview_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  fluwx: 07a55ed66bf3a4961e836a2a411b02dcada32902
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  webview_flutter: d2b4d6c66968ad042ad94cbb791f5b72b4678a96
+  WechatOpenSDK: 6a4d1436c15b3b5fe2a0bd383f3046010186da44
+
+PODFILE CHECKSUM: 7d806e2c4306664d9460db5c9b4280a92ef41fab
+
+COCOAPODS: 1.10.0
